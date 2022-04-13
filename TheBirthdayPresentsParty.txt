@@ -1,0 +1,7 @@
+
+The Minotaur Birthday Presents Party Has Begun!!
+
+Number of presents added: 500000
+Number of 'Thank You' cards left to write: 0
+
+Execution Time: 343ms

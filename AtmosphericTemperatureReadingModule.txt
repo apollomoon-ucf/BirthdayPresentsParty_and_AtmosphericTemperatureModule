@@ -1,0 +1,61 @@
+
+The Mars Rover is now collecting data on all 8 temperature sensors...
+Please wait...
+
+The Mars Rover has completed collecting and reporting temperature data.
+----- Mars Rover Report Number 1 ------
+Lowest 5 Temperatures:
+-96F
+-97F
+-98F
+-99F
+-100F
+Highest 5 Temperatures:
+66F
+67F
+68F
+69F
+70F
+Number of successful data readings for hour 1: 480
+
+Maximum Temperature Difference of 169F was recorded in the 10-minute interval of [22, 32] of hour 1
+
+The Mars Rover has completed collecting and reporting temperature data.
+----- Mars Rover Report Number 2 ------
+Lowest 5 Temperatures:
+-95F
+-96F
+-97F
+-98F
+-99F
+Highest 5 Temperatures:
+65F
+66F
+68F
+69F
+70F
+Number of successful data readings for hour 2: 480
+
+Maximum Temperature Difference of 169F was recorded in the 10-minute interval of [2, 12] of hour 2
+
+The Mars Rover has completed collecting and reporting temperature data.
+----- Mars Rover Report Number 3 ------
+Lowest 5 Temperatures:
+-95F
+-96F
+-97F
+-99F
+-100F
+Highest 5 Temperatures:
+66F
+67F
+68F
+69F
+70F
+Number of successful data readings for hour 3: 480
+
+Maximum Temperature Difference of 169F was recorded in the 10-minute interval of [0, 10] of hour 3
+
+3 hours of data reports are now available above.
+Execution Time: 38ms
+

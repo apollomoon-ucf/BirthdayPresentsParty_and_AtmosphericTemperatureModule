@@ -24,7 +24,7 @@ Run Program And Output To File:
 
 Build Atmospheric Temperature Module Program:
 
-> javac AtoAtmosphericTemperatureReadingModulemsp.java
+> javac AtmosphericTemperatureReadingModule.java
 
 Run Program And Output To File:
 
