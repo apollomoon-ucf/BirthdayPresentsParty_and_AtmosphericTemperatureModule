@@ -139,7 +139,7 @@ public class AtmosphericTemperatureReadingModule extends Thread {
       // take temp reading on each thread for one hour
       for (long minute = 0; minute < 60; ++minute) {
         Integer randomTemperature = random.nextInt(tempRangeMax - (tempRangeMin - 1)) + tempRangeMin;
-        listOfTemperatureReadings.addTempReading(randomTemperature, (minute % 60));   
+        listOfTemperatureReadings.addTempReading(randomTemperature, minute);   
       }
       // 10ms === 1min
       // 10ms per iteration with 60 iterations = 600ms to simulate 60 real-world-minutes
