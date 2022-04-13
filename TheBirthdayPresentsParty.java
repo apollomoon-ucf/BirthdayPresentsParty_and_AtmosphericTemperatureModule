@@ -13,7 +13,6 @@ import java.util.concurrent.LinkedBlockingQueue;
 
 
 public class TheBirthdayPresentsParty extends Thread {
-  // public member variables
   public static Node head;
   public static int numServants = 4;
   public static int numPresents = 500000;
